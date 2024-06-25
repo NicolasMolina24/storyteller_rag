@@ -4,7 +4,7 @@ This project develops a RAG (Retrieve-Augment-Generate) with the objective of im
 
 The project consists of four main flows and several key features:
 
-![image.jpeg](imgs\graph.jpeg)
+![image.jpeg](https://github.com/NicolasMolina24/storyteller_rag/blob/develop/imgs/graph.jpeg)
 ### Main Flows
 
 1. **Retrieve**: Retrieves data from vector storage.
