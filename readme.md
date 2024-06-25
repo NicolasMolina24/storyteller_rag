@@ -23,7 +23,7 @@ The project consists of four main flows and several key features:
 - [Project Status](#project-status)
 
 ## Requirements
-1.  Create the `.env` file. This file should contain the following API keys:
+1.  Create a file named `.env` in your project directory and add your sensitive information in the following format:
 
     - [OPENAI_API_KEY](https://openai.com/index/openai-api/)
     - [TAVILY_API_KEY](https://app.tavily.com/sign-in)
