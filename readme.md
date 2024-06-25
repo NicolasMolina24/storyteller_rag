@@ -40,7 +40,7 @@ The project consists of four main flows and several key features:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/username/project.git
+    git clone https://github.com/NicolasMolina24/storyteller_rag.git
     ```
 2. Navigate to the project directory:
     ```sh
