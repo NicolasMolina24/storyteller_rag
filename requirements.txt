@@ -8,3 +8,6 @@ tiktoken
 tavily-python
 python-dotenv
 autoflake
+ipython
+ipykernel
+beautifulsoup4
