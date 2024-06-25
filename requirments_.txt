@@ -1,0 +1,10 @@
+langchain_community
+langchain-openai
+langchainhub
+chromadb
+langchain
+langgraph
+tiktoken
+tavily-python
+python-dotenv
+autoflake
