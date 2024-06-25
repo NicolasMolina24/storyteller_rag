@@ -26,10 +26,7 @@ def route_question(state):
     print("----ROUTE QUESTION----")
     source = query_router.invoke({"question": question})
     out = 'None'
-    if source.route == "web_search":
-        print("----ROUTE QUESTION: Web search")
-        out = "web_search"
-    elif source.route == "vectorstore":
+    if source.route == "vector_storage":
         print("----ROUTE QUESTION: Vectorstore")
         out = "retrieve"
     elif source.route == "storyteller":
@@ -38,4 +35,8 @@ def route_question(state):
     elif source.route == "memory":
         print("----ROUTE QUESTION: Memory")
         out = "memory_history"
+    else:
+        #source.route == "web_search":
+        print("----ROUTE QUESTION: Web search")
+        out = "web_search"
     return out
