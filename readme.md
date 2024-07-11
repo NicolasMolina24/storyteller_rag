@@ -101,4 +101,4 @@ to obtain the llm generation, you must access through the  `generation` key.
 
 ## Autores
 
-- **Nicolás Alberto Molina** - *Trabajo inicial* - [NicolasMolina24](https://github.com/NombreUsuario)
+- **Nicolás Alberto Molina** - *Trabajo inicial* - [NicolasMolina24](https://github.com/NicolasMolina24)
